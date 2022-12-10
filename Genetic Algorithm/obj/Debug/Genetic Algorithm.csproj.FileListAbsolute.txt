@@ -1,0 +1,11 @@
+E:\Основы искусственного интеллекта\Genetic Algorithm\Genetic Algorithm\bin\Debug\Genetic Algorithm.exe.config
+E:\Основы искусственного интеллекта\Genetic Algorithm\Genetic Algorithm\bin\Debug\Genetic Algorithm.exe
+E:\Основы искусственного интеллекта\Genetic Algorithm\Genetic Algorithm\bin\Debug\Genetic Algorithm.pdb
+E:\Основы искусственного интеллекта\Genetic Algorithm\Genetic Algorithm\obj\Debug\Genetic Algorithm.csproj.AssemblyReference.cache
+E:\Основы искусственного интеллекта\Genetic Algorithm\Genetic Algorithm\obj\Debug\Genetic Algorithm.csproj.SuggestedBindingRedirects.cache
+E:\Основы искусственного интеллекта\Genetic Algorithm\Genetic Algorithm\obj\Debug\Genetic_Algorithm.Form1.resources
+E:\Основы искусственного интеллекта\Genetic Algorithm\Genetic Algorithm\obj\Debug\Genetic_Algorithm.Properties.Resources.resources
+E:\Основы искусственного интеллекта\Genetic Algorithm\Genetic Algorithm\obj\Debug\Genetic Algorithm.csproj.GenerateResource.cache
+E:\Основы искусственного интеллекта\Genetic Algorithm\Genetic Algorithm\obj\Debug\Genetic Algorithm.csproj.CoreCompileInputs.cache
+E:\Основы искусственного интеллекта\Genetic Algorithm\Genetic Algorithm\obj\Debug\Genetic Algorithm.exe
+E:\Основы искусственного интеллекта\Genetic Algorithm\Genetic Algorithm\obj\Debug\Genetic Algorithm.pdb
